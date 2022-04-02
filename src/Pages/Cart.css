@@ -1,0 +1,13 @@
+.total{
+    bottom: 300px;
+    border-style: ridge;
+    border-color: black;
+    border-width: 2px;
+    position: absolute;
+}
+.crtitems{
+    position: relative;
+    padding-top: 3em;
+    height: 227px;
+    width: 100%;
+}
